@@ -15,4 +15,4 @@ use App\Http\Controllers\ServicController;
 */
 
 
-Route::resource('products',ServicController::class);
+Route::resource('services',ServicController::class);
